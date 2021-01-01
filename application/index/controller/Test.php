@@ -1,9 +1,10 @@
 <?php
 namespace app\index\controller;
-class Index{
-    public function test()
-    {
+class Test{
 
+    public function index()
+    {
+          return "张庆达" ;
 
     }
 }
