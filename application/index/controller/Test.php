@@ -3,7 +3,7 @@ namespace app\index\controller;
 
 class Test
 {
-    public function ho(){
+    public function index(){
         return "holl";
     }
 }
