@@ -1,7 +1,7 @@
 <?php
 namespace app\index\controller;
 
-class Indexx
+class test
 {
     public function indexx(){
         return "holl";
