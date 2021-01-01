@@ -1,9 +1,9 @@
 <?php
 namespace app\index\controller;
 
-class test
+class Test
 {
-    public function indexx(){
+    public function ho(){
         return "holl";
     }
 }
