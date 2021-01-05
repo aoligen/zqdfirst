@@ -1,6 +1,5 @@
 <?php
 namespace app\index\controller;
-//class Dema
 class Dema extends \think\Controller
 {
     public function dema()
